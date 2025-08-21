@@ -100,3 +100,5 @@ if prediction[0] == 1:
 else:
     print("Spam mail")  # Typically, spam is labeled as 0
 
+# code is uploaded on github
+
